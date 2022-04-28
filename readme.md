@@ -2,7 +2,7 @@
 
 This is the interactive user interface for Team Red's Project for COMP6940 Group Project!
 
-Source Code Availibe Here! - https://github.com/danjphill/TeamRedProject2/
+Source Code available Here! - https://github.com/danjphill/TeamRedProject2/
 
 ### How to Use
 ![alt text](https://raw.githubusercontent.com/danjphill/teamredproject/master/preview.gif "Interactive Page in Motion")
