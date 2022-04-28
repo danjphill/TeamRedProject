@@ -26,3 +26,8 @@ Once the install is complete execute `docker run -p 5005:5005 -t teamredproject`
 Open the browser and go to `http://localhost:5005` to view the interactive model. 
 
 
+### Notes
+
+This docker file imports the code used to build the interactive user interface which can be found in the repo here https://github.com/danjphill/TeamRedProject2/
+
+Use the docker container to ensure it deploys correctly. 
