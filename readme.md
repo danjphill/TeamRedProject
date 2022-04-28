@@ -15,7 +15,7 @@ This is the interactive user interface for Team Red's Project for COMP6940 Group
 
 First install Docker. You can download it here https://docs.docker.com/get-docker/ 
 
-First Clone this repo to your computer. 
+Next clone or download this repo to your computer. 
 
 Navigate inside the folder `cd teamredproject`
 
